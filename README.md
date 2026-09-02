@@ -48,6 +48,7 @@ Click Reset to start a new game.
 
 number-guessing-game/
 │
+
 ├── index.html
 
 ├── style.css
@@ -103,11 +104,6 @@ Resetting the game state
 
 
 
-📁 Project Structure
-number-guessing-game/
-│
-├── index.html
-├── style.css
-└── script.js
+
 
 
