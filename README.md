@@ -57,51 +57,6 @@ number-guessing-game/
 
 Live Demo: 🎯 [Number Guessing Game](https://jaima-konia.github.io/Number-Guessing-Game/)
 
-A simple number guessing game built with HTML, CSS, and JavaScript.
-
-The game generates a random number between 1 and 100, and the player tries to guess it. After each guess, the game gives a hint indicating whether the guess is too high or too low.
-
-✨ Features
-
-Generates a random number between 1 and 100
-
-Provides hints for incorrect guesses
-
-Counts the number of attempts
-
-Shows a success message when the correct number is guessed
-
-Validates input to ensure the number is between 1 and 100
-
-Reset button to start a new game
-
-Clears the previous input, score, and attempt count when resetting
-
-
-📚 What I Practiced
-
-This project helped me practice several JavaScript concepts:
-
-DOM selection with getElementById()
-
-Variables using let and const
-
-Math.random() and Math.floor()
-
-Conditional statements (if, else if, else)
-
-Functions
-
-Number conversion with Number()
-
-Updating HTML using textContent
-
-Reading input values using .value
-
-Managing game state with variables
-
-Resetting the game state
-
 
 
 
