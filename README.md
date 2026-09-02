@@ -46,7 +46,7 @@ Click Reset to start a new game.
 
 📁 Project Structure
 
-number-guessing-game/
+number-guessing-game
 │
 
 ├── index.html
